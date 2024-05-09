@@ -1,4 +1,4 @@
-# SUCC official source code
+# SUCC official code
 
 ![image-20240509105906087.png](teaser%2Fimage-20240509105906087.png)
 Implement cross-domain adaptive migration of crowd counting models with the help of scene priors
