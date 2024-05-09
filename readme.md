@@ -10,25 +10,25 @@ Implement cross-domain adaptive migration of crowd counting models with the help
 pip install -r requirements.txt
 ```
 
-The data set supports mainstream video crowd data sets and also supports custom input of crowd video data.
+>The data set supports mainstream video crowd data sets and also supports custom input of crowd video data.
 
 
 
 ## Pretrained model weights
 
-### Download
->>The two pre-trained models we provide are available through Baidu Netdisk
+>### Download
+>The two pre-trained models we provide are available through Baidu Netdisk
 
->>Link: https://pan.baidu.com/s/19QVkP-nuMqN9C036qUV4ug 
->>Extraction code: 6rw6
+>Link: https://pan.baidu.com/s/19QVkP-nuMqN9C036qUV4ug 
+>Extraction code: 6rw6
 
 
 ### Run path
-Copy the two models to the following paths respectively:
+>Copy the two models to the following paths respectively:
 
-best-model_epoch-204_mae-0.0505_loss-0.1370.pth -> saliency/models/best-model_epoch-204_mae-0.0505_loss-0.1370.pth
+>best-model_epoch-204_mae-0.0505_loss-0.1370.pth -> saliency/models/best-model_epoch-204_mae-0.0505_loss-0.1370.pth
 
-esa_net.pth.tar -> /esr_net/weights/esa_net.pth.tar
+>esa_net.pth.tar -> /esr_net/weights/esa_net.pth.tar
 
 
 
