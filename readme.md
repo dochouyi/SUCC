@@ -14,13 +14,16 @@ The data set supports mainstream video crowd data sets and also supports custom 
 
 
 
+## Pretrained model weights
 
-The two pre-trained models we provide are available through Baidu Netdisk
+### Download
+>>The two pre-trained models we provide are available through Baidu Netdisk
 
-Link: https://pan.baidu.com/s/19QVkP-nuMqN9C036qUV4ug Extraction code: 6rw6
+>>Link: https://pan.baidu.com/s/19QVkP-nuMqN9C036qUV4ug 
+>>Extraction code: 6rw6
 
 
-
+### Run path
 Copy the two models to the following paths respectively:
 
 best-model_epoch-204_mae-0.0505_loss-0.1370.pth -> saliency/models/best-model_epoch-204_mae-0.0505_loss-0.1370.pth
