@@ -24,7 +24,7 @@ Download
 >Extraction code: 6rw6
 
 
-### Run path
+## Path
 Copy the two models to the following paths respectively
 
 >best-model_epoch-204_mae-0.0505_loss-0.1370.pth -> saliency/models/best-model_epoch-204_mae-0.0505_loss-0.1370.pth
