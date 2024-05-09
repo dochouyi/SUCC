@@ -5,7 +5,7 @@
 Implement cross-domain adaptive migration of crowd counting models with the help of scene priors
 
 
-## Installation method
+## Installation environment
 
 ```sh
 pip install -r requirements.txt
