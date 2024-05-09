@@ -1,27 +1,27 @@
-# SUCC官方源代码
+# SUCC official source code
 
 ![image-20240509105906087.png](teaser%2Fimage-20240509105906087.png)
-借助场景先验，实现人群计数模型的跨领域自适应迁移
+Implement cross-domain adaptive migration of crowd counting models with the help of scene priors
 
 
-## 安装方式
+## Installation method
 
 ```sh
 pip install -r requirements.txt
 ```
 
-数据集支持主流的视频人群数据集，也支持自定义输入人群视频数据
+The data set supports mainstream video crowd data sets and also supports custom input of crowd video data.
 
 
 
 
-我们提供的两个预训练模型，通过百度网盘
+The two pre-trained models we provide are available through Baidu Netdisk
 
-链接: https://pan.baidu.com/s/19QVkP-nuMqN9C036qUV4ug 提取码: 6rw6 
+Link: https://pan.baidu.com/s/19QVkP-nuMqN9C036qUV4ug Extraction code: 6rw6
 
 
 
-将两个模型分别复制到如下路径
+Copy the two models to the following paths respectively:
 
 best-model_epoch-204_mae-0.0505_loss-0.1370.pth -> saliency/models/best-model_epoch-204_mae-0.0505_loss-0.1370.pth
 
@@ -29,7 +29,7 @@ esa_net.pth.tar -> /esr_net/weights/esa_net.pth.tar
 
 
 
-## 运行
+## Run
 
 ```sh
 python main.py
