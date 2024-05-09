@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 ## Pretrained model weights
 
->### Download
+Download
 >The two pre-trained models we provide are available through Baidu Netdisk
 
 >Link: https://pan.baidu.com/s/19QVkP-nuMqN9C036qUV4ug 
@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 
 ### Run path
->Copy the two models to the following paths respectively:
+Copy the two models to the following paths respectively:
 
 >best-model_epoch-204_mae-0.0505_loss-0.1370.pth -> saliency/models/best-model_epoch-204_mae-0.0505_loss-0.1370.pth
 
